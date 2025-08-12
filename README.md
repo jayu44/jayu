@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/jayu" target="blank"><img src="https://img.shields.io/twitter/follow/jayu?logo=twitter&style=for-the-badge" alt="jayu" /></a> </p>
 
-- 🔭 I’m currently working on **Event Management project**
+- 🔭 I’m Done The **Property Rent and Sell project**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Android , Flutter**
+- 💬 Ask me about **Python , DSA**
 
 - 📫 How to reach me **girasejayraj00@gmail.com**
 
